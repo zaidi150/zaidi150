@@ -1,5 +1,4 @@
 - Welcome to my Digital Playground!
-- 
 - 👋 Hi, I’m zaidi, a Junior Software Engineer passionate about programming/developing. Here, you'll find a mix of my projects, contributions, and possibly a little bit of whimsy. Feel free to explore and connect with me!
 - 🌱 I’m currently learning php and laravel framework.
 - 💞️ I’m looking to collaborate on any project that related to programming (any languages).
